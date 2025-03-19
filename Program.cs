@@ -1,5 +1,11 @@
+using Microsoft.EntityFrameworkCore;
+using ProjectManagement.DataAccessLayer.Contexts;
+
 var builder = WebApplication.CreateBuilder(args);
 
+
+builder.Services.AddDbContext<AppDbContext>(options =>
+           options.UseNpgsql(Environment.GetEnvironmentVariable("DB_CONNECTION")));
 // Add services to the container.
 
 builder.Services.AddControllers();

@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\ProjectManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{33D9C7A0-3841-4C35-A61E-B351308BF3B0}|ProjectManagement.csproj|c:\\users\\lenovo\\source\\repos\\projectmanagement\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{33D9C7A0-3841-4C35-A61E-B351308BF3B0}|ProjectManagement.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{33D9C7A0-3841-4C35-A61E-B351308BF3B0}|ProjectManagement.csproj|c:\\users\\lenovo\\source\\repos\\projectmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33D9C7A0-3841-4C35-A61E-B351308BF3B0}|ProjectManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D9C7A0-3841-4C35-A61E-B351308BF3B0}|ProjectManagement.csproj|c:\\users\\lenovo\\source\\repos\\projectmanagement\\dataaccesslayer\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D9C7A0-3841-4C35-A61E-B351308BF3B0}|ProjectManagement.csproj|solutionrelative:dataaccesslayer\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D9C7A0-3841-4C35-A61E-B351308BF3B0}|ProjectManagement.csproj|c:\\users\\lenovo\\source\\repos\\projectmanagement\\dataaccesslayer\\entities\\projectemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D9C7A0-3841-4C35-A61E-B351308BF3B0}|ProjectManagement.csproj|solutionrelative:dataaccesslayer\\entities\\projectemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D9C7A0-3841-4C35-A61E-B351308BF3B0}|ProjectManagement.csproj|c:\\users\\lenovo\\source\\repos\\projectmanagement\\dataaccesslayer\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D9C7A0-3841-4C35-A61E-B351308BF3B0}|ProjectManagement.csproj|solutionrelative:dataaccesslayer\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D9C7A0-3841-4C35-A61E-B351308BF3B0}|ProjectManagement.csproj|c:\\users\\lenovo\\source\\repos\\projectmanagement\\dataaccesslayer\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D9C7A0-3841-4C35-A61E-B351308BF3B0}|ProjectManagement.csproj|solutionrelative:dataaccesslayer\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D9C7A0-3841-4C35-A61E-B351308BF3B0}|ProjectManagement.csproj|c:\\users\\lenovo\\source\\repos\\projectmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33D9C7A0-3841-4C35-A61E-B351308BF3B0}|ProjectManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D9C7A0-3841-4C35-A61E-B351308BF3B0}|ProjectManagement.csproj|c:\\users\\lenovo\\source\\repos\\projectmanagement\\projectmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{33D9C7A0-3841-4C35-A61E-B351308BF3B0}|ProjectManagement.csproj|solutionrelative:projectmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D9C7A0-3841-4C35-A61E-B351308BF3B0}|ProjectManagement.csproj|c:\\users\\lenovo\\source\\repos\\projectmanagement\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{33D9C7A0-3841-4C35-A61E-B351308BF3B0}|ProjectManagement.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +42,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 11,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -29,29 +57,112 @@
               "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ProjectManagement\\DataAccessLayer\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ProjectManagement\\DataAccessLayer\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:46:45.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ProjectManagement\\DataAccessLayer\\Entities\\ProjectEmployee.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\ProjectEmployee.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ProjectManagement\\DataAccessLayer\\Entities\\ProjectEmployee.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\ProjectEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:41:45.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ProjectManagement\\DataAccessLayer\\Entities\\Project.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\Project.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ProjectManagement\\DataAccessLayer\\Entities\\Project.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\Project.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA1wAsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:40:43.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ProjectManagement\\DataAccessLayer\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ProjectManagement\\DataAccessLayer\\Entities\\Employee.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:39:23.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectManagement",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ProjectManagement\\ProjectManagement.csproj",
+              "RelativeDocumentMoniker": "ProjectManagement.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ProjectManagement\\ProjectManagement.csproj",
+              "RelativeToolTip": "ProjectManagement.csproj",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-19T07:04:13.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ProjectManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ProjectManagement\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-19T07:03:35.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ProjectManagement\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
               "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ProjectManagement\\.gitignore",
               "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-03-18T08:28:43.414Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ProjectManagement\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ProjectManagement\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwAcAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T08:09:25.445Z"
+              "WhenOpened": "2025-03-18T08:09:25.445Z",
+              "EditorCaption": ""
             }
           ]
         }
