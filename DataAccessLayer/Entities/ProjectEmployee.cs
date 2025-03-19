@@ -1,4 +1,6 @@
-﻿namespace ProjectManagement.DataAccessLayer.Entities
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace ProjectManagement.DataAccessLayer.Entities
 {
     public class ProjectEmployee
     {

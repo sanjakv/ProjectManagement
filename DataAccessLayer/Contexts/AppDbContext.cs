@@ -29,7 +29,12 @@ namespace ProjectManagement.DataAccessLayer.Contexts
             }
         }
 
-        // Ваши
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<ProjectEmployee>()
+                        .HasKey(pe => new { pe.ProjectId, pe.EmployeeId }); // Составной первичный ключ
+        }
+
 
 
     }
